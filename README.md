@@ -3,7 +3,7 @@
 A classic Snake Game built using JavaScript logics, HTML, CSS.
 
 ## 🎮 Play Now
-[Click here to play](https://your-username.github.io/snake-game/)
+[Click here to play](https://anupamvats52.github.io/Snake-Game/)
 
 ## 🎯 Features
 - Responsive game board
